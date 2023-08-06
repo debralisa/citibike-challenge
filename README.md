@@ -9,6 +9,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 Design 2–5 visualizations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
+
 The following are questions I chose to answer. 
 
 * What are the peak hours when bikes are used during the summer months?
@@ -21,7 +22,8 @@ Use your visualizations to design a dashboard for each phenomenon. The dashboard
 
 * Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
 * Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
-* The map you choose should also be accompanied by a write-up describing any trends that were noticed during your analysis.
+
+The map you choose should also be accompanied by a write-up describing any trends that were noticed during your analysis.
 
 #  Create your final presentation:
 
