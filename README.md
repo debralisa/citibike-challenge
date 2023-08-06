@@ -20,10 +20,7 @@ Use your visualizations to design a dashboard for each phenomenon. The dashboard
 
 # Create one of the following visualizations for city officials:
 
-* Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.
-* Advanced: A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map.
-
-The map you choose should also be accompanied by a write-up describing any trends that were noticed during your analysis.
+* Basic: A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey, with zip code data overlaid on top.  Map is accompanied by a write-up describing any trends that were noticed during your analysis.
 
 #  Create your final presentation:
 
